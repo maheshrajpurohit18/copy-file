@@ -36,7 +36,11 @@ with open("git.txt","r") as f1:
             f2.write(line)
 ```
 ### OUTPUT:
+![output](https://user-images.githubusercontent.com/118749665/214775385-7d7cdd61-f1fa-452c-ba7c-7d092ceca6c9.png)
+
 ![f4](https://user-images.githubusercontent.com/118749665/214775053-639de13d-e1ab-4d17-ba03-10611715b372.png)
+
+![f5](https://user-images.githubusercontent.com/118749665/214775446-8ba80c36-66c8-4e97-81b7-cd48df43a037.png)
 
 
 ## RESULT:
