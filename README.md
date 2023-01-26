@@ -34,7 +34,7 @@ with open("git.txt","r") as f1:
     with open("MyFile.txt","a") as f2:
         for line in f1:
             f2.write(line)
-
+```
 ### OUTPUT:
 ![f4](https://user-images.githubusercontent.com/118749665/214775053-639de13d-e1ab-4d17-ba03-10611715b372.png)
 
